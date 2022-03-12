@@ -27,6 +27,9 @@
 ### 8. Picasso
    - A powerful image downloading and caching library for Android for loading our movie images and storing them locally.
 
+### 9.  Room Database
+  - Best alternative to avoid boilerplate code to create and manage databases and the Best persisting android database that saves data locally.
+
 ## Features
 This project is divided into 4 main categories:
 
