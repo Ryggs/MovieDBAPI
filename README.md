@@ -18,5 +18,9 @@
 5. Movie details
 6. Change label and visibility of navigation drawer menu
 
-### Additional Note
-
+### Note!
+ - Written in Kotlin 1.4 but upgraded the plugin to 1.6.10. There are a tonne of warnings, basically syntax.
+ - Upgraded to JDK11
+ - Android Studio Bumblebee | 2021.1.1 Patch 1
+ 
+  
