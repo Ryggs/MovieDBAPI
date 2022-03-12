@@ -1,4 +1,7 @@
-### Patterns and Third party libraries used
+# The Movie Database API
+ Android app displaying movies from <https://www.themoviedb.org/>
+ 
+## Patterns and Third party libraries used
 
 1. Android Jetpack (Livedata, ViewModel, Pagination, Room, Navigation, Preference) 
 2. MVVM 
@@ -16,18 +19,18 @@
 8. Picasso
    - A powerful image downloading and caching library for Android for loading our movie images and storing them locally.
 
-### Features
+## Features
 This project is divided into 4 main categories
 1. Trending movies  
 2. Popular movies 
 3. Popular movies for Children
 4. Favorite movies
 
-Extra features include:   
+## Extra features include:   
 1. Movie details 
 2. Change label and visibility of navigation drawer menu
 
-### Note!
+## Note!
  - Written in Kotlin 1.4 but upgraded the plugin to 1.6.10. There are a tonne of warnings, basically syntax.
  - Upgraded to JDK11
  - Android Studio Bumblebee | 2021.1.1 Patch 1
